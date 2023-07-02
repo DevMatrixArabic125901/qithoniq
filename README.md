@@ -5,7 +5,8 @@
 
 <p align="center">
   <a href="https://t.me/FFlXlX">Telegram</a>
-</p><a href="https://github.com/qithoniq/matrix">GitHub</a>
+</p> 
+<a href="https://github.com/qithoniq/matrix">GitHub</a>
 </p>
 
 ---
