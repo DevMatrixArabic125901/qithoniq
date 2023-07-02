@@ -7,9 +7,6 @@
   <a href="https://t.me/FFlXlX">Telegram</a>
 </p>
 
----
-
-<!-- GitHub Stats -->
 <p align="center">
   <a href="https://github.com/qithoniq/matrix">GitHub</a>
 </p>
