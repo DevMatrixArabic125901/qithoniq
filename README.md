@@ -31,23 +31,5 @@ CSS                2 hrs 3 mins    -------------------------   01.80 %
 Docker             1 hr 43 mins    -------------------------   01.50 %
 Text               1 hr 33 mins    -------------------------   01.36 %
 ```
-
-<!--END_SECTION:waka-->
- 
- <!-- Stats -->
- 
-
-```json
-{
-  "skills": {
-    "cloudPlatforms": ["AWS", "Azure", "Digital Ocean", "Heroku"],
-    "databases": ["MongoDB", "SQL"],
-    "documentation": ["GitBook", "Markdown (MD)"],
-    "otherSkills": ["Docker", "Shell Script"],
-    "programmingLanguages": ["Bash", "C", "C++", "Python"],
-    "versionControl": ["Git", "GitHub"],
-    "webDevelopment": ["CSS", "HTML"]
-  },
-```
 ---
 ---
