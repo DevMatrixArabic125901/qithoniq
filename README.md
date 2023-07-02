@@ -45,9 +45,4 @@ Text               1 hr 33 mins    -------------------------   01.36 %
     "versionControl": ["Git", "GitHub"],
     "webDevelopment": ["CSS", "HTML"]
   },
-  "workingPlatform":
-{,
-    "Matrix": ["Dar"]
-  }
-}
 ```
