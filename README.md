@@ -24,7 +24,7 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=qithoniq&theme=transparent" alt="GitHub streak stats" width="390" />
+  <img src="https://streak-stats.demolab.com/?user=qithoniq &theme=transparent" alt="GitHub streak stats" width="390" />
   <img src="https://github-readme-stats.vercel.app/api?username=qithoniq&show_icons=true&theme=transparent&rank_icon=github&count_private=true" alt="GitHub Stats" width="370" /> 
 </p>
 
