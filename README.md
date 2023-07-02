@@ -1,5 +1,7 @@
 <!-- Matrix -->
-<h1 align="center">Hello, I'm Dar! 👋</h1>
+<h1 align="center">Hello, I'm DaR</h1>
+
+---
 
 <p align="center">
   <a href="https://t.me/FFlXlX">Telegram</a>
