@@ -1,7 +1,7 @@
 ---
 
 <!-- Matrix -->
-<h1 align="center">Hello, I'm DaR</h1>
+<h1 align="center">Hello, I'm Ahmed</h1>
 
 ---
 
@@ -39,7 +39,7 @@ Total Time: 114 hrs 22 mins
 
 Python             65 hrs 7 mins   >>>>>>>>>>>>>>-----------   56.94 %
 Other              37 hrs 45 mins  >>>>>>>>-----------------   33.02 %
-HTML               3 hrs 18 mins   >------------------------   04.02 %
+HTML               3 hrs 18 mins   >------------------------   82.02 %
 CSS                2 hrs 3 mins    -------------------------   01.80 %
 PHP              37 hrs 17 mins    -------------------------   74.70 %
 TELETHON          47 hrs 7 mins    -------------------------   84.42 %
