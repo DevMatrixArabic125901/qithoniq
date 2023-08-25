@@ -4,7 +4,7 @@
 
 ## Which Language I'm Using /Learning:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white)
 ![php](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php&logoColor=purple)
 ![html](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html&logoColor=orange)
 # Soma Projects
