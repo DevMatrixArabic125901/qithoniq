@@ -5,7 +5,7 @@
 ## Which Language I'm Using /Learning:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
+![php](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php&logoColor=purple)
 # Soma Projects
 
 <a href="https://github.com/qithoniq/drago">
