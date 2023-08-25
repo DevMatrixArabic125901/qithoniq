@@ -25,5 +25,3 @@
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=qithoniq&show_icons=true&theme=radical)
 
 [![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=qithoniq&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/qithoniq)
-
-![](https://visitor-badge.laobi.icu/badge?page_id=qithoniq)
